@@ -1,0 +1,6 @@
+{
+  "name": "ধানসিঁড়ি কিচেন - Dhanshiri Gourmet Restaurant",
+  "description": "Authentic Bangladeshi culinary ordering app with bilingual English/Bangla, bKash, Nagad, Card & COD payments, live order tracking, table reservations, and admin control.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
